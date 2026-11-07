@@ -8,8 +8,8 @@ secara kolaboratif, memantau versi, dan mengelola revisi kode dengan mudah.
 Contohnya, platform seperti GitHub atau GitLab menyediakan layanan repository 
 berbasis Git.
 
-2. Kegunaan Repository 
-a. Tempat Penyimpanan: Menyimpan seluruh file, aset, dan kode program secara 
+2. Kegunaan Repository
+   a. Tempat Penyimpanan: Menyimpan seluruh file, aset, dan kode program secara 
 terpusat dan aman di cloud agar terhindar dari risiko kehilangan data. 
 b. Kolaborasi Tim: Memungkinkan banyak pengembang untuk bekerja pada proyek 
 yang sama secara bersamaan tanpa saling mengganggu. 
@@ -21,7 +21,7 @@ baru atau memperbaiki bug tanpa merusak program utama.
 e. Portofolio & Publikasi: Menjadi sarana untuk memamerkan hasil karya atau 
 mendokumentasikan kegiatan/proyek secara terbuka kepada publik.
 
-3. Dokumentasi Kegiatan Workshop 
+4. Dokumentasi Kegiatan Workshop 
 Materi ini terbagi dua topik besar: membuat dan mengembangkan sesuatu dengan 
 bantuan AI, serta mengelola perubahan dan kolaborasi dengan Git dan GitHub. Capaian 
 yang ingin diraih adalah mampu menjelaskan bagaimana prompt yang lebih spesifik 
